@@ -1,7 +1,7 @@
 # TPs XLIM Master Cryptis M2
 -------------------
 
-* First release: november 2023.
+* First release: October 2024.
 
 ## Development Environment to Set
 
